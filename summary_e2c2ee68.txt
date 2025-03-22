@@ -1,0 +1,53 @@
+📰 **Article 1: India TV News · 8hApple’s first foldable iPhone may feature ultra-thin design and liquid metal hingesWhile Apple's foldable iPhone is still in development, these leaks give us a glimpse of an exciting future where foldable technology meets Apple's signature innovation.**
+- 📄 Summary:  Apple is reportedly focusing on making its foldable iPhone as thin as possible without compromising on performance . Reports suggest that Apple will reinforce the hinge with liquid metal, known for its strength and flexibility . Apple is said to adopt a horizontally folding design, making it ideal for multitasking and immersive experiences .
+- 😊 Sentiment: Positive
+- 🔑 Topics: folding, foldables, foldable, iphone, apple
+
+📰 **Article 2: moneycontrol.com · 1dApple iPhone 17 Pro rumour roundup: Every big and small change expected from the next most expensive iPhoneApple iPhone 17 Pro Max is expected to arrive later this year alongside other iPhone models. Here's everything we know so far.**
+- 📄 Summary:  Apple is still several months away from launching its latest iPhone 17 series . Leaks and rumours have already provided insights into the possible design, display, and camera upgrades . The iPhone 17 Pro Max is expected to debut in September 2025 .
+- 😊 Sentiment: Positive
+- 🔑 Topics: iphone, camera, cameras, upcoming, speculation
+
+📰 **Article 3: Mint · 17hApple TV+ renews ‘Severance’ for Season 3 — All you need to knowApple TV+ has renewed “Severance” for a third season. The announcement coincides with the premiere of the season two finale, “Cold Harbor.” While no release date has been set, the new season is expected in 2026 or 2027.**
+- 📄 Summary:  Apple TV+ has officially renewed its acclaimed thriller “Severance” for a third season . The award-winning series debuted in 2022 and quickly became one of Apple’s flagship originals . Apple CEO Tim Cook personally revealed the renewal in a social media exchange with Ben Stiller .
+- 😊 Sentiment: Positive
+- 🔑 Topics: severance, apple, renewed, premiered, seasons
+
+📰 **Article 4: The Hindu · 11hApple TV’s thriller series ‘Severance’ gets renewed for season threeApple TV+ renews thriller series Severance for third season, creator Dan Erickson excited to continue with cast and crew.**
+- 📄 Summary:  The Hindu On Books gives you your daily dose of news highlights from Karnataka . The View From India looks at world affairs from the Indian perspective . The Hindu on Books: Books of the week, reviews, excerpts and new titles .
+- 😊 Sentiment: Positive
+- 🔑 Topics: severance, karnataka, hindu, seasons, episodes
+
+📰 **Article 5: The Indian Express · 1dApple sued for false advertising over delay in rollout of Apple Intelligence featuresThe lawsuit seeks damages from Apple on behalf of customers who purchased iPhones and other devices meant to support Apple Intelligence.**
+- 📄 Summary:  Apple has been hit with a lawsuit filed in a US district court in San Jose, California, that alleges false advertising of several Apple Intelligence features . The lawsuit seeks damages from Apple on behalf of customers who purchased iPhones and other devices meant to support Apple Intelligence . It claimed that the new device owners are yet to receive the generative AI features .
+- 😊 Sentiment: Neutral
+- 🔑 Topics: apple, iphone, iphones, lawsuit, devices
+
+📰 **Article 6: Here’s how much a rare Apple-1 computer sold for at an auction**
+- 📄 Summary:  The Apple-1 Computer, one of the earliest computers built by Steve Jobs and Steve Wozniak, has sold for $375,000 at an auction by RR Auctions . The rare computer was “meticulously restored” to operational condition by Corey Cohen in October 2019 .
+- 😊 Sentiment: Positive
+- 🔑 Topics: apple, computers, applesoft, computer, 9to5mac
+
+📰 **Article 7: Apple Expands Workforce And Manufacturing Operations In India To Enhance Supply Chain Resilience**
+- 📄 Summary:  This website is using a security service to protect itself from online attacks . The action you just performed triggered the security solution . There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data .
+- 😊 Sentiment: Positive
+- 🔑 Topics: cloudflare, blocked, block, submitting, malformed
+
+📰 **Article 8: Apple Hiring In India For Key Roles As It Looks To Manufacture Airpods**
+- 📄 Summary:  Apple has posted several job openings for positions in Bengaluru, Chennai, Hyderabad, and Delhi . Hiring spree comes as Apple looks to move beyond iPhones with production of AirPods likely to begin in April . Apple has over 200 employees in India’s supply chain and support roles .
+- 😊 Sentiment: Neutral
+- 🔑 Topics: manufacturing, companies, suppliers, firms, apple
+
+---
+## 📊 Summary Insights
+- Total Articles: 8
+- 😊 Positive: 6
+- 😐 Neutral: 2
+- ☹️ Negative: 0
+
+**🔥 Most Frequent Topics:**
+- apple (5 times)
+- iphone (3 times)
+- severance (2 times)
+- seasons (2 times)
+- folding (1 times)
