@@ -1,4 +1,14 @@
-# akaike-news-app
+---
+title: Akaike News App
+emoji: 📰
+colorFrom: gray
+colorTo: pink
+sdk: gradio
+sdk_version: "3.50.2"
+app_file: app.py
+pinned: false
+---
+
 # akaike-news-app
 # 📰 Company News Summarizer with Hindi TTS
 This project is a complete news analysis tool built using Python and Gradio. You just enter a company name, and the app does the rest — it fetches the latest news articles, summarizes them, analyzes the sentiment, extracts key topics, and even reads out a summary in Hindi!
