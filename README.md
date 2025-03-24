@@ -57,8 +57,7 @@ Then open your browser and go to:
 
 ---
 
-<details>
-<summary><strong>📦 Project Structure (click to expand)</strong></summary>
+📦 Project Structure (click to expand)
 
 ```
 akaike-news-app/
@@ -73,7 +72,7 @@ akaike-news-app/
 ├── frontend/              # React frontend source
 └── venv/                  # Python virtual environment (excluded from GitHub)
 ```
-</details>
+
 
 ---
 
