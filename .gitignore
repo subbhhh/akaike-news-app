@@ -1,1 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.env
+.env
+
+# Virtual environment
 venv/
+ENV/
+env/
+.venv/
+
+# VSCode settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# React (Node)
+node_modules/
+build/
+
+# Logs
+*.log
+
+# Frontend cache and files
+frontend/node_modules/
+frontend/build/
+
+# Optional
+summary_*.txt
+summary_hi.mp3
+
+# OS files
+Thumbs.db
