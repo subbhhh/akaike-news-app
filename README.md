@@ -57,7 +57,7 @@ Then open your browser and go to:
 
 ---
 
-📦 Project Structure (click to expand)
+## 📦 Project Structure 
 
 ```
 akaike-news-app/
